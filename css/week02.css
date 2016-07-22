@@ -1,0 +1,130 @@
+.head{
+width: 100%;
+height:500px;
+background-image: url(img/hero-bg.jpg);
+background-position: center;
+}
+.head h1 {
+  text-align: center;
+  font-size: 1.8em;
+  letter-spacing: .3em;
+  padding-top: 180px;
+  }
+  .head span{
+  	color: #A1A9B0;
+  }
+ .hh{
+    text-align: center;
+    color: #A1A9B0;
+    word-spacing: .2em;
+    font-style: italic;
+  }
+  .button{
+  	border-radius: 10px;
+  	background-color: #3DC9B3;
+  	width: 230px;
+  	height: 60px;
+    margin-left: 450px;
+
+  }
+  .button p{
+    text-align: center;
+    padding-top: 18px;
+    color: white;
+  }
+  .portfolio{
+  	width: 100%;
+  	height: 258px;
+  	background-color: #F3F5F8;
+  	margin-top: -10px;
+  }
+  .h5{
+  	text-align: center;
+
+  	padding-top: 50px;
+  }
+  .h5 p {
+
+   width: 500px;
+   margin-left: 330px;
+   color: #A1A9B0;
+   }
+   .icon h5 {
+   	padding-top: 30px;
+   	text-align: center;
+   }
+   .circ {
+   	width: 120px;
+   	height: 120px;
+   	border-radius:100px;
+   	background-color: #3DC9B3;
+   	margin-left: 120px;
+    
+   }
+   .circ i {
+   	margin-left:30px;
+   padding-top: 30px;
+   color: white;}
+   .kicikboyuk{
+   	width: 120px;
+   	height: 120px;
+   	border-radius:100px;
+   	background-color: #3DC9B3;
+   	margin-left: 120px;
+   }
+   .kicikboyuk i{
+   		margin-left:30px;
+   padding-top: 30px;
+   color: white;
+   }
+   .urek{
+   	width: 120px;
+   	height: 120px;
+   	border-radius:100px;
+   	background-color: #3DC9B3;
+   	margin-left: 120px;}
+   	.urek i{
+   		margin-left:30px;
+   padding-top: 30px;
+   color: white;
+   	}
+   	.col-md-4 p {
+   	text-align: center;}
+   	.row .xet {
+   		display: inline-block;
+   		height: 5px;
+   		width: 40px;
+       background-color:  #3DC9B3;
+       margin-left: 160px;}
+       #id{
+       	 color: #A1A9B0;
+       	 padding-left: 30px;}
+       	 .owerflow{
+       	 	overflow: hidden;
+       	 }
+       	 .owerflow img{
+       	 	padding-top:25px;}
+       	 .first{
+       	 	padding-bottom: 20px;
+       	 	width: 300px;
+       	 	height: 60px;
+       	 	color: #949A9F;
+       	 }
+       	 .camen{
+       	 	padding-top: 150px;
+       	 	padding-left: 150px;
+       	 }
+       	 .got99{
+       	 	background-image:url('img/plants-bg.jpg');
+
+	
+				  width: 100%;
+				  height: 300px;
+				 background-size: 100% 100%;
+    background-repeat: no-repeat;
+
+
+}
+
+       	 
+
